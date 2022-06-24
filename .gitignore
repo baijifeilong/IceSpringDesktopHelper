@@ -1,0 +1,13 @@
+.idea
+?env
+__pycache__
+build/
+dist/
+*.spec
+*.7z
+*.exe
+*.obj
+*.res
+*.pyc
+*.pyo
+config.json

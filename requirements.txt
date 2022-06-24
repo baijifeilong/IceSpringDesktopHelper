@@ -1,0 +1,11 @@
+assertpy==1.1
+colorlog==6.6.0
+delegator.py==0.1.1
+IceSpringPySideStubs-PySide2==1.3.1
+IceSpringRealOptional==1.2.4
+pendulum==2.1.2
+pydash==5.1.0
+pyinstaller==4.9
+PySide2==5.15.2
+QtAwesome==1.1.1
+typing-extensions==4.0.1
